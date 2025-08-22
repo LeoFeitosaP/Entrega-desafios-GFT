@@ -1,0 +1,7 @@
+Crie um algoritimo em Java que seja capaz de gerenciar notas de alunas, o sistema deve seguir os seguintes parametros:
+1 - Ter uma classe chamada Aluno com propriedades Nome e Lista de notas
+1.1 - Na classe aluno deve existir uma função:
+        adicionarNota que permita adicionar valores a Lista de notas
+2 - Ter uma classe chamada boletim onde será feito o cálculo da média dos valores que estão em Lista de notas, com uma função:
+        calcularMedia que exibe a media do aluno
+3 - Realizar a separação entre alunos aprovados e reprovados (media >= 7 aprovados) e (media < 7 reprovados)
